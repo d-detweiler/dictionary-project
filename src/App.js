@@ -12,13 +12,18 @@ export default function App() {
         <footer className="App-footer">
           <small>
             This project was coded by{" "}
-            <a href="https://github.com/d-detweiler" target="_blank">
+            <a
+              href="https://github.com/d-detweiler"
+              target="_blank"
+              rel="noreferrer"
+            >
               Dominika Detweiler
             </a>{" "}
             and is{" "}
             <a
               href="https://github.com/d-detweiler/dictionary-project"
               target="_blank"
+              rel="noreferrer"
             >
               open-sourced on Github
             </a>{" "}
@@ -26,6 +31,7 @@ export default function App() {
             <a
               href="https://dictionaryproject-ddetweiler.netlify.app/"
               target="_blank"
+              rel="noreferrer"
             >
               hosted on Netlify
             </a>
